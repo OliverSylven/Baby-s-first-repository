@@ -1,0 +1,2 @@
+gree=input('insert favourite pizza topping')
+print(gree)
